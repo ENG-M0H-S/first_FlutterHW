@@ -56,7 +56,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   MohButton(
                     widget: Text(AppTexts.loginButton, style: TextStyle(fontSize: 18)),
                     voidCallback: _login,
-                    shColor: AppColors.accent,
+                    shColor: AppColors.primary,
                   ),
                 ],
               ),
