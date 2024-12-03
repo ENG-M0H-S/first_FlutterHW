@@ -244,7 +244,7 @@ class ThreePage extends StatelessWidget {
                                     color: AppColors.textColor,
                                     fontWeight: FontWeight.w700
                                   ),
-                                )
+                                ),
                               ],
                             ),
                           ],

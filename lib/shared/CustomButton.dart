@@ -14,7 +14,7 @@ class MohButton extends StatelessWidget {
       onPressed: voidCallback,
       child: widget,
       style: ElevatedButton.styleFrom(
-        primary: shColor ?? AppColors.primary,
+        backgroundColor: shColor ?? AppColors.primary,
         padding: EdgeInsets.symmetric(vertical: 15, horizontal: 30),
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(30),

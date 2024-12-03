@@ -1,6 +1,7 @@
 import 'package:first_hw/shared/MOH_const.dart';
 import 'package:first_hw/shared/colors.dart';
 import 'package:first_hw/splash_screen.dart';
+import 'package:first_hw/three_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
